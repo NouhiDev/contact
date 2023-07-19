@@ -11,7 +11,7 @@ $(window).on("load", async function () {
     location.href = "https://nouhidev.github.io/";
   };
   
-  /* Setup global Navbar */ 
+/* Setup global Navbar */ 
 const NAV_URL = "https://nouhi.dev/assets/html-templates/navbar.txt";
 
 fetch(NAV_URL)
